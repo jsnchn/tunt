@@ -2,6 +2,8 @@
 A brutalist approach
 
 ### Production
-<a href="data:text/html,<!doctype html><html lang=en contenteditable><title>TUNT</title><script src=\"https://pastebin.com/raw/b4nACPUw\"></script>">bookmark this</a>
+[data:text/html,<!doctype html><html lang=en contenteditable><title>TUNT</title><script src="https://pastebin.com/raw/b4nACPUw"></script>][1]
 ### Dev
 `data:text/html,<!doctype html><html lang=en contenteditable><title>TUNT</title><script src="https://pastebin.com/raw/b4nACPUw"></script>`
+
+[1]: data:text/html,<!doctype html><html lang=en contenteditable><title>TUNT</title><script src="https://pastebin.com/raw/b4nACPUw"></script>
