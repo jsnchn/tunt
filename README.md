@@ -1,35 +1,11 @@
 # [T]he [U]ltimate [N]ote [T]aker
-A brutalist approach
+A brutalist approach to taking notes
 
-### Bookmark this
+- git-based, sync with repo host of your choice
+- portable, intentionally transitory
+- use your existing file management and editing tools
 
-```
-data:text/html,<!doctype html><html lang=en contenteditable><title>TUNT</title><script src="https://pastebin.com/raw/b4nACPUw"></script>
-```
-
-
-## Building and running on localhost
-
-First install dependencies:
-
-```sh
-npm install
-```
-
-To run in hot module reloading mode:
-
-```sh
-npm start
-```
-
-To create a production build:
-
-```sh
-npm run build-prod
-```
-
-## Running
-
-```sh
-node dist/bundle.js
-```
+### Steps
+1. designate a local directiory where your notes will live
+2. configure a remote repo to sync with
+3. take notes
