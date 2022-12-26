@@ -1,8 +1,8 @@
 # [T]he [U]ltimate [N]ote [T]aker
 A brutalist approach to taking notes
 
-- git-based, sync with repo host of your choice
-- portable, intentionally transitory
+- **git-based** - sync with repo host of your choice
+- **portable** - intentionally transitory
 - use your existing file management and editing tools
 
 ### Steps
